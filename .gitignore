@@ -28,3 +28,6 @@ geolite-*.tar
 .elixir_ls
 .envrc
 .DS_Store
+
+/downloads/
+*.db*
